@@ -27,8 +27,8 @@ Desenvolvido com base no desafio proposto, utilizei do Docker Compose para confi
 
 1. **Faça o clone deste repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/LucasAurelio0/docker-projeto1-dio.git
+   cd docker-projeto1-dio
 2. **Execute o Docker Compose**:  
    ```bash
    docker-compose up -d
